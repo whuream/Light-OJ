@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include<cstdio>
 #include<string>
 #include<map>
@@ -53,7 +53,7 @@ void re(string &a)
 }
 
 
-//·´×ªµÄ×Ö·ûÊı×é¼Ó·¨ _a=_a+_b
+//åè½¬çš„å­—ç¬¦æ•°ç»„åŠ æ³• _a=_a+_b
 void add(string &_a,string &_b)
 {
 	string *a=&_a,*b=&_b;
@@ -76,7 +76,7 @@ void add(string &_a,string &_b)
 	_a=(*a);
 }
 
-//·´×ª×Ö·û´®³Ë·¨ a=a*n
+//åè½¬å­—ç¬¦ä¸²ä¹˜æ³• a=a*n
 void mul(string &a,int n)
 {
 	int i;

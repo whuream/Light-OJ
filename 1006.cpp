@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include<cstdio>
 #include<vector>
 
@@ -31,7 +31,7 @@ int main()
 {
     int n, caseno = 0, cases;
 	//freopen("input.txt","r",stdin);
-	//¿´À´Òª¿¼ÂÇÒç³ö¡£
+	//çœ‹æ¥è¦è€ƒè™‘æº¢å‡ºã€‚
 	//I hate this PROBLEM!!
 
     scanf("%d", &cases);

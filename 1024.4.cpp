@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include<cstdio>
 #include<vector>
 
@@ -16,7 +16,7 @@ void out(vector<ull> &a)
 	for(;it!=a.rend();it++) printf("%llu",*it);
 }
 
-//LINE½øÖÆ±íÊ¾·¨£¬µÍÎ»ÔÚÇ°£¬¸ßÎ»ÔÚºó£¬bÏòºóÒÆÎ»tbÎ»ÓëaÏà¼Ó¡£
+//LINEè¿›åˆ¶è¡¨ç¤ºæ³•ï¼Œä½ä½åœ¨å‰ï¼Œé«˜ä½åœ¨åï¼Œbå‘åç§»ä½tbä½ä¸aç›¸åŠ ã€‚
 void add(vector<ull> &a,vector<ull> &b,int tb)
 {
 	int la=a.end()-a.begin();
